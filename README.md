@@ -28,3 +28,4 @@ Cross-cohort cell-interpretability analysis aids in the identification of potent
 
 ## Tips
 The relevant codes for extracting cell statistical features are referenced from [SI-MIL](https://github.com/bmi-imaginelab/SI-MIL)
+The relevant codes for graph construction are referenced from [WSI-HGNN](https://github.com/HKU-MedAI/WSI-HGNN)
