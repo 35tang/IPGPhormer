@@ -1,5 +1,5 @@
 # IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis
-#Pathological imagesplayanessentialroleincancerprognosis,whilesurvivalanal
+Pathological images play an essential roleincancerprognosis,whilesurvivalanal
 ysis,whichintegratescomputationaltechniques,canpredictcriticalclinicaleventssuch
  aspatientmortalityordiseaserecurrencefromwhole-slideimages(WSIs). Recentad
 vancements inmultipleinstancelearninghavesignificantlyimprovedtheefficiencyof
