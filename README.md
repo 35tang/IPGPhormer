@@ -16,3 +16,10 @@ Finally, the patch risk score establishes a link between model outputs and both 
 &nbsp;
 
 ## Interpretability
+![image](https://github.com/35tang/IPGPhormer/blob/main/tissue.png)
+The tissue-interpretability approach shows patch-wise risk values aligned with pathology expert assessments.
+
+&nbsp;
+
+![image](https://github.com/35tang/IPGPhormer/blob/main/cell.png)
+Cross-cohort cell-interpretability analysis aids in the identification of potential biomarkers.
