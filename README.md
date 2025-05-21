@@ -4,3 +4,6 @@ Recent advancements in multiple instance learning have significantly improved th
 To address these challenges, we propose the Interpretable Pathology Graph-Transformer (IPGPhormer), a novel framework that captures the characteristics of the tumor microenvironment and models their spatial dependencies across the tissue. IPGPhormer uniquely provides interpretability at both tissue and cellular levels without requiring post-hoc manual annotations, enabling detailed analyses of individual WSIs and cross-cohort assessments. 
 Comprehensive evaluations on four public benchmark datasets demonstrate that IPGPhormer outperforms state-of-the-art methods in both predictive accuracy and interpretability. In summary, our method, IPGPhormer
 offers a promising tool for cancer prognosis assessment, paving the way for more reliable and interpretable decision-support systems in pathology.
+
+
+![image](https://github.com/35tang/IPGPhormer/blob/main/framework.png)
