@@ -8,3 +8,11 @@ offers a promising tool for cancer prognosis assessment, paving the way for more
 &nbsp;
 
 ![image](https://github.com/35tang/IPGPhormer/blob/main/framework.png)
+Overview of the proposed IPGPhormer architecture. 
+First, we use HoverNet to create both tissue graphs and cell graphs, and then extract patch features using CTransPath.
+The Patch-Level Transfer Module leverages GAT for local spatial awareness, while the Region-Level Feature Transfer Module converts the graph data into a sequential embedding format and feeds it into the Transformer blocks to capture long-range dependencies. 
+Finally, the patch risk score establishes a link between model outputs and both tissue-level and cell-level interpretability.
+
+&nbsp;
+
+## Interpretability
