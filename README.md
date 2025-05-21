@@ -5,5 +5,6 @@ To address these challenges, we propose the Interpretable Pathology Graph-Transf
 Comprehensive evaluations on four public benchmark datasets demonstrate that IPGPhormer outperforms state-of-the-art methods in both predictive accuracy and interpretability. In summary, our method, IPGPhormer
 offers a promising tool for cancer prognosis assessment, paving the way for more reliable and interpretable decision-support systems in pathology.
 
+&nbsp;
 
 ![image](https://github.com/35tang/IPGPhormer/blob/main/framework.png)
