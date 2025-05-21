@@ -23,3 +23,8 @@ The tissue-interpretability approach shows patch-wise risk values aligned with p
 
 ![image](https://github.com/35tang/IPGPhormer/blob/main/cell.png)
 Cross-cohort cell-interpretability analysis aids in the identification of potential biomarkers.
+
+&nbsp;
+
+## Tips
+The relevant codes for extracting cell statistical features are referenced from [github](https://github.com/bmi-imaginelab/SI-MIL)
