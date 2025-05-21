@@ -27,4 +27,4 @@ Cross-cohort cell-interpretability analysis aids in the identification of potent
 &nbsp;
 
 ## Tips
-The relevant codes for extracting cell statistical features are referenced from [github](https://github.com/bmi-imaginelab/SI-MIL)
+The relevant codes for extracting cell statistical features are referenced from [SI-MIL](https://github.com/bmi-imaginelab/SI-MIL)
