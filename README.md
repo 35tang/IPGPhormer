@@ -9,7 +9,7 @@ offers a promising tool for cancer prognosis assessment, paving the way for more
 
 &nbsp;
 
-![image](https://github.com/35tang/IPGPhormer/blob/main/framework.png)
+![image](https://github.com/35tang/IPGPhormer/blob/main/Figs/framework.png)
 Overview of the proposed IPGPhormer architecture. 
 First, we use HoverNet to create both tissue graphs and cell graphs, and then extract patch features using CTransPath.
 The Patch-Level Transfer Module leverages GAT for local spatial awareness, while the Region-Level Feature Transfer Module converts the graph data into a sequential embedding format and feeds it into the Transformer blocks to capture long-range dependencies. 
@@ -18,12 +18,12 @@ Finally, the patch risk score establishes a link between model outputs and both 
 &nbsp;
 
 ## Interpretability
-![image](https://github.com/35tang/IPGPhormer/blob/main/tissue.png)
+![image](https://github.com/35tang/IPGPhormer/blob/main/Figs/tissue.png)
 The tissue-interpretability approach shows patch-wise risk values aligned with pathology expert assessments.
 
 &nbsp;
 
-![image](https://github.com/35tang/IPGPhormer/blob/main/cell.png)
+![image](https://github.com/35tang/IPGPhormer/blob/main/Figss/cell.png)
 Cross-cohort cell-interpretability analysis aids in the identification of potential biomarkers.
 
 &nbsp;
